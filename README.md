@@ -4,7 +4,7 @@ Site fictício desenvolvido como peça de portfólio para o nicho de **eventos &
 (fotógrafos, DJs, decoradores, organizadores de eventos) — o portfólio visual é o
 protagonista, com texto reduzido ao mínimo.
 
-🔗 **Demo ao vivo:** _(adicionar link do GitHub Pages depois do deploy)_
+🔗 **Demo ao vivo:** _[Site de fotografia & eventos](https://teca09.github.io/site-fotografo-eventos./)_
 
 ## Sobre o projeto
 
